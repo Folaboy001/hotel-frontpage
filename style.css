@@ -1,0 +1,18 @@
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: #EE7214;
+    font-family: 'Noto Sans JP', sans-serif;
+
+
+}
+
+.centered-text {
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    left: 50%;
+    
+}
